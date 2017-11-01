@@ -1,3 +1,3 @@
 # Stopwatch
 
-Python minigame
+Python mini game
